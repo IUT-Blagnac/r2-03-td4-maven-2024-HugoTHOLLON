@@ -30,8 +30,11 @@ image:https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f74
 //---------------------------------------------------------------
 
 mvn package
+
 mvn compile
+
 java -jar target/tp_qualite-1.0.jar
+
 
 
 Pour generer de la javadoc
