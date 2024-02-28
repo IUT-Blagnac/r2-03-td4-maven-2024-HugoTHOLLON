@@ -8,7 +8,7 @@ public class InverserTableau {
 	 * les op�randes sont fournis par donneesInitiales() (� modifier si besoin)
 	 */
 	public static void main(String args[]) {
-		
+		System.out.println("yes");
 		int[] tableauDeValeurs;
 
 		tableauDeValeurs = InverserTableau.donneesInitiales();

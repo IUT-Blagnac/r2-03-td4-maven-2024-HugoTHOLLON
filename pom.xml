@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>InverserTableau<!--HelloJava--></mainClass>
+              <mainClass>InverserTableau</mainClass>
             </manifest>
           </archive>
         </configuration>
